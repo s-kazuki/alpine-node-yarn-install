@@ -1,4 +1,4 @@
-FROM skazuki/alpine-node
+FROM skazuki/alpine-node:12
 
 LABEL maintainer="S-Kazuki<contact@revoneo.com>"
 
